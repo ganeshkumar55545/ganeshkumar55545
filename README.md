@@ -3,7 +3,7 @@
 <!--  Edit the sections below anytime to update   -->
 <!-- ============================================ -->
 
-<h1 align="center">Hi 👋, I'm Shegu Venkata Naga Ganesh Kumar</h1>
+<h1 background-image: url("https://images.unsplash.com/photo-1500534623283-312aade485b7"); align="center">Hi 👋, I'm Shegu Venkata Naga Ganesh Kumar</h1>
 <h3 align="center">Full Stack Developer | UI/UX Enthusiast | CSE (Data Science) Student</h3>
 
 <p align="center">
